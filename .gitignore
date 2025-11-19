@@ -1,0 +1,27 @@
+# Виртуальное окружение
+venv/
+env/
+.env
+
+# Байт-код Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Отчёты и временные файлы
+.coverage
+htmlcov/
+.allure/
+allure-results/
+.pytest_cache/
+.coverage.*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Локальные конфиги
+*.log
+.DS_Store

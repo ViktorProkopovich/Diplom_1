@@ -1,5 +1,5 @@
 import allure
-from bun import Bun
+from praktikum.bun import Bun
 
 
 class TestBun:
