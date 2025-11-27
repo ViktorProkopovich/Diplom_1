@@ -1,27 +1,35 @@
-# Виртуальное окружение
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+
+# Virtual environments (if created locally)
 venv/
 env/
-.env
+ENV/
 
-# Байт-код Python
-__pycache__/
-*.pyc
-*.pyo
-
-# Отчёты и временные файлы
-.coverage
-htmlcov/
-.allure/
-allure-results/
-.pytest_cache/
-.coverage.*
-
-# IDE
-.vscode/
+# IDEs and editors
 .idea/
+.vscode/
 *.swp
 *.swo
-
-# Локальные конфиги
-*.log
 .DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
