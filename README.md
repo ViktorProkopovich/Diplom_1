@@ -1,4 +1,4 @@
-# 🍔 Проект Diplom_Part2 — Юнит-тесты для *Stellar Burgers*
+# 🍔 Проект Diplom_1_QA_Python_YaPracticum — Юнит-тесты для *Stellar Burgers*
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python" alt="Python">
